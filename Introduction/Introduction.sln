@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intriduction", "Intriduction\Intriduction.csproj", "{4AABF4EE-0999-4F9B-930D-6EAECDAD1FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AABF4EE-0999-4F9B-930D-6EAECDAD1FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AABF4EE-0999-4F9B-930D-6EAECDAD1FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AABF4EE-0999-4F9B-930D-6EAECDAD1FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AABF4EE-0999-4F9B-930D-6EAECDAD1FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF47DBC-440C-42A3-AAEF-D6BB7E538975}
+	EndGlobalSection
+EndGlobal
